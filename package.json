@@ -22,7 +22,7 @@
     "@reduxjs/toolkit": "^1.9.5",
     "@tradle/react-native-http": "^2.0.1",
     "assert": "^1.1.1",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "babel-plugin-module-resolver": "^5.0.0",
     "ether-converter": "^0.0.16",
     "ethereumjs-wallet": "^1.0.2",
